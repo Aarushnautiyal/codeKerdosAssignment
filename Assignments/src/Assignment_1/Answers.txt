@@ -1,0 +1,16 @@
+Problem 1: Simple Loop
+Question: What is the time complexity of this function? -> O(n)
+Problem 2: Nested Loop
+Question: What is the time complexity of this function? -> O(n2)
+Problem 3: Sequential Loop
+Question: What is the time complexity of this function? -> O(n)
+Problem 4: Loop with halving
+Question: What is the time complexity of this function? -> Olog2(n)
+Problem 5: Triple Nested Loop
+Question: What is the time complexity of this function? -> O(n3)
+Problem 6: Dependent Loop Bound
+Question: What is the time complexity of this function? -> O(n)
+Problem 7: Mixed Operations
+Question: What is the time complexity of this function? -> O(n2)
+Problem 8: Logarithmic with linear
+Question: What is the time complexity of this function? -> O(n * log n)
